@@ -1,1 +1,1 @@
-# TeamProj
+Git 및 Github 
